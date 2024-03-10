@@ -30,4 +30,24 @@ nav {
     border-color: #FFFFFF80;
 }
 
+/* Cards */
+.card-title {
+    color: var(--secundario);
+}
+
+.card-text {
+    color: var(--terciario);
+}
+
+#map-dot {
+    font-size: 0.8rem !important;
+}
+
+.precio-origina {
+    color: #707070;
+}
+
+.precio-oferta {
+    color: #28A745;
+}
 
