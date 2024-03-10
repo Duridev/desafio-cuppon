@@ -11,17 +11,10 @@ body {
     font-size: 62.5%;
 }
 
-:root {
-    --primario: #28A745;
-    --secundario: #212529;
-    --terciario: #707070;
-    --quaternario: #F8F9FA;
-}
-
 
 /* Barra de navegacion */
 nav {
-    background-color: var(--primario)!important;
+    background-color: #28A745;
     height: 4.5rem;
 }
 
@@ -31,19 +24,23 @@ nav {
 }
 
 /* Cards */
+.card {
+    margin-bottom: 2rem !important;
+}
+
 .card-title {
-    color: var(--secundario);
+    color: #212529;
 }
 
 .card-text {
-    color: var(--terciario);
+    color: #707070;
 }
 
 #map-dot {
     font-size: 0.8rem !important;
 }
 
-.precio-origina {
+.precio-original {
     color: #707070;
 }
 
