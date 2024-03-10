@@ -23,6 +23,10 @@ nav {
     border-color: #FFFFFF80;
 }
 
+.navbar-brand img {
+    width: 7rem;
+}
+
 /* Cards */
 .card {
     margin-bottom: 2rem !important;
