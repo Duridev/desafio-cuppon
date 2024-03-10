@@ -22,7 +22,7 @@ body {
 /* Barra de navegacion */
 nav {
     background-color: var(--primario)!important;
-    height: 6rem;
+    height: 4.5rem;
 }
 
 .navbar-toggler {
