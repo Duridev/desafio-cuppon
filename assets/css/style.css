@@ -48,3 +48,17 @@ nav {
     color: #28A745;
 }
 
+/* Fomulario */
+form {
+    background-color: #28A745;
+}
+
+form .btn {
+    border-radius: 4px;
+    width: 8rem;
+}
+
+form input::placeholder {
+    color: #707070;
+}
+
