@@ -11,3 +11,23 @@ body {
     font-size: 62.5%;
 }
 
+:root {
+    --primario: #28A745;
+    --secundario: #212529;
+    --terciario: #707070;
+    --quaternario: #F8F9FA;
+}
+
+
+/* Barra de navegacion */
+nav {
+    background-color: var(--primario)!important;
+    height: 6rem;
+}
+
+.navbar-toggler {
+    border-width: 1px !important;
+    border-color: #FFFFFF80;
+}
+
+
